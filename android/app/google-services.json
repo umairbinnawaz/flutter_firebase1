@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059365447391",
+    "firebase_url": "https://logo-demo-af169.firebaseio.com",
+    "project_id": "logo-demo-af169",
+    "storage_bucket": "logo-demo-af169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059365447391:android:584840bc620076d21e2b6a",
+        "android_client_info": {
+          "package_name": "com.example.sign_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059365447391-rkf9vd2cnl0qj2dvcli67sittkei06cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFo8t7Ni46gGGzwqT1uXkZfzdKWgbfkFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059365447391-rkf9vd2cnl0qj2dvcli67sittkei06cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
